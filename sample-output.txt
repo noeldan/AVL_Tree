@@ -1,0 +1,25 @@
+The data 87 entered already exists.
+Create Tree: 84 36 22 16 28 63 50 60 78 64 93 87 91 94 
+
+Data = 99
+Data Inserted: 99
+
+Tree: 84 36 22 16 28 63 50 60 78 64 93 87 91 94 99 
+
+
+Tree: 84 36 22 16 28 63 50 60 78 64 93 87 91 94 99 
+Data = 94
+
+Data: 94
+Height: 2
+
+Enter the data to be deleted = 16
+Tree: 84 36 22 28 63 50 60 78 64 93 87 91 94 99 
+
+In_order: 22 28 36 50 60 63 64 78 84 87 91 93 94 99 
+
+Check Balance = 1
+
+Delete Tree: Tree Deleted
+
+Exit

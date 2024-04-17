@@ -1,0 +1,73 @@
+AVL Tree
+---------------------
+The AVL tree program has 2 program files. 
+"avl.cpp" and "avl.h"
+
+"avl-out" is the executable file.
+
+input.txt file contains the node data.
+output.txt file will constantly update the progress.
+sample-output.txt file contains sample output data.
+
+
+Compiling the program:
+----------------------
+prompt$ g++ -o avl-out avl.cpp
+
+The above command compiles the program.
+Output "avl-out" will be created on successful compilation.
+
+(For faster execution purposes the command "g++ avl.cpp" can be used.
+In which case "a.out" will be the executable file.)
+
+
+Executing the program:
+----------------------
+prompt$ ./avl-out
+
+The above command executes the program.
+
+
+Output:
+--------
+On Execution the output will be displayed as below.
+
+***************************************************
+prompt$ ./avl-out 
+Select from the options below
+1 - Create Tree
+2 - Insert Data
+3 - Delete Data
+4 - Search
+5 - Traversal
+6 - Delete Tree
+7 - Check Balance
+8 - Exit
+
+Option = 
+***************************************************
+
+
+Select from the available options:
+----------------------------------
+
+1. Create Tree - Deletes the existing tree and creates a new tree with inputs from "input.txt" file.
+2. Insert Data - Inserts data node to the existing tree.
+3. Delete Data - Deletes data node from the existing tree.
+4. Search - Searches the given data node and displayes the height on the data.
+5. Traversal - Performs Pre-Order, Post-Order and In-Order traversals of the AVL tree.
+6. Delete Tree - Deletes the entire tree.
+7. Check Balance - Performs a balance check on the AVL tree and displays the height difference.
+8. Exit - Exits from the program and returns to the 
+
+
+Sample Execution(sample-output.txt):
+------------------------------------
+Create Tree
+Insert Data(99)
+Search(94)
+Delete data(16)
+Traversal(3)
+Check Balance
+Delete Tree
+Exit

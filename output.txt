@@ -1,0 +1,34 @@
+Node cannot be deleted. Empty Tree!
+
+Tree is empty.
+
+Tree is empty.
+
+Tree is empty
+
+Data = 23
+Data Inserted: 23
+
+Tree: 23 
+
+Data = 56
+Data Inserted: 56
+
+Tree: 23 56 
+
+The data 87 entered already exists.
+Create Tree: 84 36 22 16 28 63 50 60 78 64 93 87 91 94 
+
+Post_order: 16 28 22 60 50 64 78 63 36 91 87 94 93 84 
+
+Enter the data to be deleted = 33
+Node cannot be found. Deletion cannot be performed
+
+Tree: 84 36 22 16 28 63 50 60 78 64 93 87 91 94 
+
+Enter the data to be deleted = 22
+Tree: 84 36 28 16 63 50 60 78 64 93 87 91 94 
+
+Check Balance = 1
+
+Exit
