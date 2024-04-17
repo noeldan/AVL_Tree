@@ -72,7 +72,7 @@ Delete_Tree: After successfully, deleting the whole tree, this option should jus
 
 Check_balance: This option should print the balance_factor every time its performed.
 
-For ease of grading, please output the name of the action followed by the action's result (one action/result per line of the file). For example: 
+Please output the name of the action followed by the action's result (one action/result per line of the file). For example: 
 ...
 Create Tree: 36 17 5 30 28 81 37 76 83
 Check balance: 1
